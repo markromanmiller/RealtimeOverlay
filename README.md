@@ -2,7 +2,7 @@
 
 Final Project for CS 445, Computational Photography, at the University of Illinois.
 
-Presentation slides available at web.engr.illinois.edu/~mrmillr3/final
+**Presentation slides and a demonstration video available at [web.engr.illinois.edu/~mrmillr3/final].**
 
 ### What's the project?
 Aided by a mobile phone's orientation sensors, find the perspective transformation between the current frame and a user-selected keyframe at a real-time rate (~30Hz). 
